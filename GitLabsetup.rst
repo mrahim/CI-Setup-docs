@@ -55,7 +55,7 @@ Super, it's setup correctly, but how do we format it?
   - ``types``
   - ``before_script``
   - ``after_script``
-  - ``varibales``
+  - ``variables``
   - ``cache``
 
 A `job <https://docs.gitlab.com/ee/ci/yaml/README.html#jobs>`_ is defined by a list of paramaters telling the job what to do.  In our case, we want to automate our document building.
